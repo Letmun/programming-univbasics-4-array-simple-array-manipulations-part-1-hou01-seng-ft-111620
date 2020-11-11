@@ -28,6 +28,6 @@ end
 
  def shift_with_args (array)
    array =  ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
-   array.shigt(2)
+   array.shift(2)
  end
     
